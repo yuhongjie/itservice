@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question_type">Questiontype</string>
+    
+    <string-array name="planets_arry">
+        <item>Net</item>
+        <item>NetWork</item>
+        <item>Service</item>
+        <item>Hardware</item>
+        <item>OAndM</item>
+        
+     </string-array>   
+</resources>
